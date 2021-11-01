@@ -1,0 +1,9 @@
+################################################
+Installed Python(recommended above 3)
+################################################
+python packages requires
+1. pyautogui
+2. time
+3. keyboard
+4. win32api
+5. win32con
